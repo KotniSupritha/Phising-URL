@@ -2,3 +2,5 @@ pandas
 numpy
 Flask
 nltk
+matplotlib
+seaborn
