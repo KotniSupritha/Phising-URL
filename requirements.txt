@@ -4,3 +4,4 @@ Flask
 nltk
 matplotlib
 seaborn
+scikit-learn
